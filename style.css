@@ -1,0 +1,41 @@
+body {
+    background-image:url(imgs/fundo.png);
+    font: 18px Arial, Helvetica, sans-serif;
+    
+} 
+#principal{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+
+   
+}
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
+}
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+#conteudo{
+    text-justify: auto;
+    background: #e8e8d9;
+    padding: 10px;
+}
+h1{
+    font-size: 1.2em;
+    color: #828271;
+}
+#footer{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.imgs{
+    border: 10px solid #c3c3ae;
+}
